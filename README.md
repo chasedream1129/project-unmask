@@ -1,15 +1,14 @@
 # Project Unmask
+Release Page: [https://chasedre.am/2023-04-01-project-unmask](https://chasedre.am/2023-04-01-project-unmask)
 
+![](/assets/2023-04-01-project-unmask/poster_21031.jpg)
+<p align=center>塞尔达传说：魔力面具复原海报 新人库帕</p>
 
-![](/assets/2023-04-01-project-unmask/poster_21031.jpg){:.border.lead loading="lazy"}
-塞尔达传说：魔力面具复原海报 新人库帕
-{:.figcaption}
-![](/assets/2023-04-01-project-unmask/poster_pjum.png){:.border.lead loading="lazy" style="max-width: 65%;"}
-Project Unmask宣传海报 扭TYPE-小光
-{:.figcaption}
+![](/assets/2023-04-01-project-unmask/poster_pjum.png)
+<p align=center>Project Unmask宣传海报 扭TYPE-小光</p>
+
 ## 赛博沧海拾遗
-
-![](/assets/2023-04-01-project-unmask/screenshots.jpg){:.border.lead loading="lazy"}
+![](/assets/2023-04-01-project-unmask/screenshots.jpg)
 神游未发售游戏——**塞尔达传说：魔力面具（魔吉拉的面具）** 沉寂19年首次披露！
 {:.lead}
 
@@ -58,7 +57,7 @@ Project Unmask宣传海报 扭TYPE-小光
 ### 实机(烧录卡)
 * iQue Player：
   * 实机测试，正常运行。
-  * 破解及ROM安装详见[又一个iQue Player破解指南](/2023-03-31-yet-another-ique-player-hacking-guide)。
+  * 关于破解及ROM安装，请阅读：[又一个神游机iQue Player破解指南](https://chasedre.am/2023-03-31-yet-another-ique-player-hacking-guide/)。
 * 64drive烧录卡：
   * 实机测试，正常运行。
 * EverDrive-64 X5/X7：
@@ -125,10 +124,6 @@ OpenEmu/m64py均使用较旧的mupen64plus内核，其对"动态重编译器"的
 * Github：[https://github.com/chasedream1129/project-unmask](https://github.com/chasedream1129/project-unmask)
 
 ## 游戏下载
-关于ROM运行情况及模拟器须知，请阅读：[Project Unmask：运行情况及模拟器须知](/2023-03-29-project-unmask-emu)
-{:.note title="Attention"}
-关于iQue Player破解，请阅读：[又一个iQue Player破解指南](/2023-03-31-yet-another-ique-player-hacking-guide)
-{:.note title="Attention"}
 * 发布主页: [https://chasedre.am/2023-04-01-project-unmask](/2023-04-01-project-unmask)
 * 宣传视频：[https://www.bilibili.com/video/BV1FL411D7Y8](https://www.bilibili.com/video/BV1FL411D7Y8)
 * 互联网档案馆：[https://archive.org/details/project-unmask](https://archive.org/details/project-unmask)

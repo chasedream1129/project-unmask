@@ -36,15 +36,15 @@
   
   关于如何升级SKSA固件以支持USB连接，请阅读[附录：SKSA固件升级](#附录sksa固件升级)。
 
-  ![](/assets/2023-03-31-yet-another-ique-player-hacking-guide/home.png){:.border-radius loading="lazy"}
+  ![](/assets/2023-03-31-yet-another-ique-player-hacking-guide/home.png)
 {:.note title="Attention"}
 
 1. 在断电的情况下，用**Mini（B型）USB数据线**连接iQue Player与PC。
-  ![](/assets/2023-03-31-yet-another-ique-player-hacking-guide/miniusb.png){:.border-radius loading="lazy"}
+  ![](/assets/2023-03-31-yet-another-ique-player-hacking-guide/miniusb.png)
 2. 插电，启动iQue Player，若绿色电源指示灯亮起则说明连接正确，将会显示以下画面。
-  ![](/assets/2023-03-31-yet-another-ique-player-hacking-guide/usb_connected.png){:.border-radius loading="lazy"}
+  ![](/assets/2023-03-31-yet-another-ique-player-hacking-guide/usb_connected.png)
 3. 第一次连接时系统会自动弹出"找到新的硬件向导"，选择"自动安装软件"即可。
-  ![](/assets/2023-03-31-yet-another-ique-player-hacking-guide/ique_drive.jpg){:.border-radius loading="lazy"}
+  ![](/assets/2023-03-31-yet-another-ique-player-hacking-guide/ique_drive.jpg)
 
 ## 注入代码执行
 
@@ -107,7 +107,7 @@
 3. 在黑屏中**短按电源键**，返回到主菜单。
 4. 当主菜单加载完毕后，进入游戏列表。
 5. 若一切顺利，将能够看到Project Unmask的《塞尔达传说：魔力面具》。
-  ![](/assets/2023-03-31-yet-another-ique-player-hacking-guide/gamelist.png){:.border-radius loading="lazy"}
+  ![](/assets/2023-03-31-yet-another-ique-player-hacking-guide/gamelist.png)
 
 ## 尾声
 至此，你已成功完成神游机iQue Player的破解。
